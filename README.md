@@ -2,7 +2,7 @@
 
 >Bouncing Ball Animation Using HTML/CSS. 
 
-<img src="images/giphy.gif" width="500" />
+<img src="images/giphy.gif" width="500"/>
 
 
 ## Demo
